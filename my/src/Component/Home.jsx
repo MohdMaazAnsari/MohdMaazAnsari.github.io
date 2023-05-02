@@ -12,7 +12,7 @@ const Home = () => {
 
   const OpenPDF = () => {
 
-    const url = `https://drive.google.com/file/d/1CYdkqF7_ByEG5KJVFPLuP2yBOraPb2R5/view?usp=share_link`
+    const url = `https://drive.google.com/file/d/1zMUvqLtX-6fs9sNmrsDxlYRjH4tJxeEI/view?usp=share_link`
 
     window.open(url, '_blank');
 
