@@ -79,21 +79,21 @@ export const GithubStats = () => {
 				<div id="github-streak">
 					<img
 						src="https://github-readme-streak-stats.herokuapp.com?user=MohdMaazAnsari&ring=red&currStreakLabel=000000&fire=black&theme=transparent&hide_border=true&stroke=e0eff8"
-						alt="Uzair Stats"
+						alt="Maaz Stats"
 						id="github-streak-stats"
 					/>
 				</div>
 				<div id="github-language">
 					<img
 						src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdMaazAnsari&layout=compact&langs_count=4&bg_color=e0eff8&hide_border=true"
-						alt="Uzair Stats"
+						alt="Maaz Stats"
 						id="github-top-langs"
 					/>
 				</div>
 				<div id="github-streak-status">
 					<img
 						src="https://github-readme-stats.vercel.app/api?username=MohdMaazAnsari&theme=black&show_icons=true&bg_color=e0eff8&hide_border=true"
-						alt="Uzair Stats"
+						alt="Maaz Stats"
 						id="github-stats-card"
 					/>
 				</div>

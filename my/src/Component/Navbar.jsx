@@ -54,7 +54,7 @@ const Navbar = () => {
 
   const OpenPDF = () => {
 
-    const url = `https://drive.google.com/file/d/1zMUvqLtX-6fs9sNmrsDxlYRjH4tJxeEI/view?usp=share_link`
+    const url = `https://drive.google.com/file/d/1PfSZkqy5FY3Pgh8bd7UCGJsEaITspzgG/view?usp=share_link`
 
     window.open(url, '_blank');
 
